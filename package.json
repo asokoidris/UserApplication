@@ -1,0 +1,17 @@
+{
+  "name": "userentryapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "function/userentry.js",
+  "scripts": {
+    "test": "jest **/*.test.js"
+  },
+  "author": "Asoko Idris",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.7"
+  }
+}
